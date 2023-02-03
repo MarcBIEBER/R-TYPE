@@ -155,11 +155,6 @@ Don't forget to give the project a star! Thanks again!
 👤 **Arnaud Issoire**
 
 
-👤 **Clément Bernat**
-
-
-👤 **Ramsford Sheamang**
-
 ## Acknowledgments
 
 * [README Template](https://github.com/othneildrew/Best-README-Template)
